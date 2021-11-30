@@ -3,15 +3,21 @@
         [
             "ShizukuTalk/shizuku-48",
             "ShizukuTalk/shizuku-pajama"
-        ],'hijiki', 'nipsilon', 'penchan', 'PLT', 'tororo', 'wanko'
+        ],
+        "hijiki",
+        "nipsilon",
+        "penchan",
+        "PLT",
+        "tororo",
+        "wanko"
     ],
     "messages": [
         "Shizuku Talk ！这里是 Shizuku ~",
-		'你好哇，我是hijiki~',
-		 '你好哇，我是nipsilon~',
-		 '你好哇，我是penchan~',
-		 '你好哇，我是PLT~',
-		 '你好哇，我是tororo~',
-		 '你好哇，我是wanko~'
+        "你好哇，我是hijiki~",
+        "你好哇，我是nipsilon~",
+        "你好哇，我是penchan~",
+        "你好哇，我是PLT~",
+        "你好哇，我是tororo~",
+        "你好哇，我是wanko~"
     ]
 }
