@@ -4,20 +4,276 @@
             "ShizukuTalk/shizuku-48",
             "ShizukuTalk/shizuku-pajama"
         ],
+        "hk416_3401",
         "hijiki",
         "nipsilon",
         "penchan",
         "PLT",
         "tororo",
-        "wanko"
+        "wanko",
+        "95type_405",
+        "ak12_3302",
+        "an94_3303",
+        "contender_2302",
+        "dsr50_1801",
+        "dsr50_2101",
+        "g36c_1202",
+        "g36_2407",
+        "g41_2401",
+        "k2_3301",
+        "kp31_1103",
+        "kp31_310",
+        "kp31_3101",
+        "ntw20_2301",
+        "ots14_3001",
+        "pkp_1201",
+        "r93_3501",
+        "rfb_1601",
+        "sat8_2601",
+        "ump45_3403",
+        "ump9_3404",
+        "vector_1901"
     ],
     "messages": [
         "Shizuku Talk ！这里是 Shizuku ~",
+        "你好哇，我是hk416_3401~",
         "你好哇，我是hijiki~",
         "你好哇，我是nipsilon~",
         "你好哇，我是penchan~",
         "你好哇，我是PLT~",
         "你好哇，我是tororo~",
-        "你好哇，我是wanko~"
-    ]
+        "你好哇，我是wanko~",
+        "你好哇，我是95type_405~",
+        "你好哇，我是ak12_3302~",
+        "你好哇，我是an94_3303~",
+        "你好哇，我是contender_2302~",
+        "你好哇，我是dsr50_1801~",
+        "你好哇，我是dsr50_2101~",
+        "你好哇，我是g36c_1202~",
+        "你好哇，我是g36_2407~",
+        "你好哇，我是g41_2401~",
+        "你好哇，我是k2_3301~",
+        "你好哇，我是kp31_1103~",
+        "你好哇，我是kp31_310~",
+        "你好哇，我是kp31_3101~",
+        "你好哇，我是ntw20_2301~",
+        "你好哇，我是ots14_3001~",
+        "你好哇，我是pkp_1201~",
+        "你好哇，我是r93_3501~",
+        "你好哇，我是rfb_1601~",
+        "你好哇，我是sat8_2601~",
+        "你好哇，我是ump45_3403~",
+        "你好哇，我是ump9_3404~",
+        "你好哇，我是vector_1901~"
+    ],
+    "modelLayoutInfos": {
+        "k2_3301": {
+            "containerWidth": "336",
+            "containerHeight": "408",
+            "canvasWidth": "384",
+            "canvasHeight": "398",
+            "canvasTop": "0",
+            "canvasLeft": "-27"
+        },
+        "kp31_1103": {
+            "containerWidth": "284",
+            "containerHeight": "417",
+            "canvasWidth": "298",
+            "canvasHeight": "436",
+            "canvasTop": "-3",
+            "canvasLeft": "-15"
+        },
+        "kp31_310": {
+            "containerWidth": "284",
+            "containerHeight": "417",
+            "canvasWidth": "298",
+            "canvasHeight": "436",
+            "canvasTop": "-3",
+            "canvasLeft": "-15"
+        },
+        "kp31_3101": {
+            "containerWidth": "346",
+            "containerHeight": "500",
+            "canvasWidth": "408",
+            "canvasHeight": "474",
+            "canvasTop": "0",
+            "canvasLeft": "-30"
+        },
+        "ntw20_2301": {
+            "containerWidth": "298",
+            "containerHeight": "470",
+            "canvasWidth": "346",
+            "canvasHeight": "500",
+            "canvasTop": "-15",
+            "canvasLeft": "-25"
+        },
+        "ots14_1203": {
+            "containerWidth": "300",
+            "containerHeight": "417",
+            "canvasWidth": "300",
+            "canvasHeight": "500",
+            "canvasTop": "-22",
+            "canvasLeft": "0"
+        },
+        "ots14_3001": {
+            "containerWidth": "270",
+            "containerHeight": "422",
+            "canvasWidth": "379",
+            "canvasHeight": "431",
+            "canvasTop": "-10",
+            "canvasLeft": "-70"
+        },
+        "pkp_1201": {
+            "containerWidth": "322",
+            "containerHeight": "493",
+            "canvasWidth": "384",
+            "canvasHeight": "500",
+            "canvasTop": "0",
+            "canvasLeft": "-13"
+        },
+        "r93_3501": {
+            "containerWidth": "346",
+            "containerHeight": "393",
+            "canvasWidth": "570",
+            "canvasHeight": "436",
+            "canvasTop": "-1",
+            "canvasLeft": "-189"
+        },
+        "rfb_1601": {
+            "containerWidth": "308",
+            "containerHeight": "436",
+            "canvasWidth": "331",
+            "canvasHeight": "460",
+            "canvasTop": "-1",
+            "canvasLeft": "-8"
+        },
+        "sat8_2601": {
+            "containerWidth": "384",
+            "containerHeight": "327",
+            "canvasWidth": "451",
+            "canvasHeight": "308",
+            "canvasTop": "0",
+            "canvasLeft": "-41"
+        },
+        "ump45_3403": {
+            "containerWidth": "303",
+            "containerHeight": "470",
+            "canvasWidth": "300",
+            "canvasHeight": "500",
+            "canvasTop": "0",
+            "canvasLeft": "-1"
+        },
+        "ump9_3404": {
+            "containerWidth": "265",
+            "containerHeight": "436",
+            "canvasWidth": "300",
+            "canvasHeight": "455",
+            "canvasTop": "-25",
+            "canvasLeft": "-39"
+        },
+        "vector_1901": {
+            "containerWidth": "303",
+            "containerHeight": "500",
+            "canvasWidth": "451",
+            "canvasHeight": "500",
+            "canvasTop": "0",
+            "canvasLeft": "0"
+        },
+        "95type_405": {
+            "containerWidth": "255",
+            "containerHeight": "441",
+            "canvasWidth": "460",
+            "canvasHeight": "500",
+            "canvasTop": "-20",
+            "canvasLeft": "-118"
+        },
+        "ak12_3302": {
+            "containerWidth": "293",
+            "containerHeight": "422",
+            "canvasWidth": "446",
+            "canvasHeight": "451",
+            "canvasTop": "-3",
+            "canvasLeft": "-75"
+        },
+        "an94_3303": {
+            "containerWidth": "317",
+            "containerHeight": "465",
+            "canvasWidth": "384",
+            "canvasHeight": "489",
+            "canvasTop": "-1",
+            "canvasLeft": "-41"
+        },
+        "contender_2302": {
+            "containerWidth": "255",
+            "containerHeight": "500",
+            "canvasWidth": "365",
+            "canvasHeight": "500",
+            "canvasTop": "0",
+            "canvasLeft": "-58"
+        },
+        "dsr50_1801": {
+            "containerWidth": "289",
+            "containerHeight": "379",
+            "canvasWidth": "317",
+            "canvasHeight": "365",
+            "canvasTop": "1",
+            "canvasLeft": "-13"
+        },
+        "dsr50_2101": {
+            "containerWidth": "246",
+            "containerHeight": "393",
+            "canvasWidth": "336",
+            "canvasHeight": "365",
+            "canvasTop": "13",
+            "canvasLeft": "-58"
+        },
+        "g36c_1202": {
+            "containerWidth": "274",
+            "containerHeight": "474",
+            "canvasWidth": "303",
+            "canvasHeight": "489",
+            "canvasTop": "1",
+            "canvasLeft": "-27"
+        },
+        "g36_2407": {
+            "containerWidth": "270",
+            "containerHeight": "474",
+            "canvasWidth": "360",
+            "canvasHeight": "474",
+            "canvasTop": "-3",
+            "canvasLeft": "-60"
+        },
+        "g41_2401": {
+            "containerWidth": "351",
+            "containerHeight": "327",
+            "canvasWidth": "336",
+            "canvasHeight": "327",
+            "canvasTop": "0",
+            "canvasLeft": "0"
+        },
+        "hk416_3401": {
+            "containerWidth": "284",
+            "containerHeight": "417",
+            "canvasWidth": "300",
+            "canvasHeight": "427",
+            "canvasTop": "0",
+            "canvasLeft": "0"
+        },
+        "hk416_805": {
+            "containerWidth": "300",
+            "containerHeight": "417",
+            "canvasWidth": "341",
+            "canvasHeight": "431",
+            "canvasTop": "1",
+            "canvasLeft": "-53"
+        },
+        "default": {
+            "containerWidth": "300",
+            "containerHeight": "300",
+            "canvasWidth": "300",
+            "canvasHeight": "300",
+            "canvasTop": "0",
+            "canvasLeft": "0"
+        }
+    }
 }
